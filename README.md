@@ -1,5 +1,8 @@
 # PROJECT--3_CLUSTER-ANALYSIS
 
+![Banner](https://github.com/ranjithsamudrala/images/blob/main/cluster%20analysis.png)
+
+
 # Global Development Measurement Clustering
 
 This project performs clustering analysis on a global development measurement dataset using K-means clustering. It visualizes the results and provides insights into different clusters.
